@@ -5,3 +5,23 @@
 .active{
     display: block;
 }
+
+button{
+    background-color: lightcoral;
+}
+
+#kotisivu{
+    background-color: lightseagreen;
+}
+
+h1{
+    color: lightskyblue;
+}
+
+h2{
+    color: maroon;
+}
+
+h3{
+    color: mediumseagreen;
+}
